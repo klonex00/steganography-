@@ -7,3 +7,8 @@ certificates/*.key
 *.key
 *.pem
 *.pfx
+
+certificates/
+*.key
+*.pem
+*.pfx
